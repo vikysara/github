@@ -16,4 +16,10 @@
    partridges:
      count: 1
      location: "a pear tree"
+   turtle-doves: twpartridges:
+     count: 1
+     location: "a pear tree"
+   turtle-doves: two turtle-doves: twpartridges:
+     count: 1
+     location: "a pear tree"
    turtle-doves: two
